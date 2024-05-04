@@ -1,0 +1,17 @@
+{
+  "name": "host-machine-docker-test",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon -L src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "check-disk-space": "^3.4.0",
+    "nodemon": "^3.1.0"
+  }
+}
